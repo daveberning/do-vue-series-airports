@@ -1,4 +1,4 @@
-# test
+# Digital Ocean Vue.js Series - Airports
 
 ## Project setup
 ```
