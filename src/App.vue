@@ -1,10 +1,13 @@
 <template>
   <div class="wrapper">
-    <div v-for="airport in airports" :key="airport.abbreviation" class="airport">
-      <p>{{ airport.abbreviation }}</p>
-      <p>{{ airport.name }}</p>
-      <p>{{ airport.city }}, {{ airport.state }}</p>
-    </div>
+    <h1>Dave Berning</h1>
+    <p>I am from Cincinnati, OH. I have two dogs, Hank (5) and Dale (6).</p>
+    <p>I like music and food.</p>
+    <ul>
+      <li>Nirvana</li>
+      <li>Green Day</li>
+      <li>Foo Fighters</li>
+    </ul>
   </div>
 </template>
 
