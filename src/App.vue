@@ -1,7 +1,7 @@
 <template>
   <div class="wrapper">
-    <h1>Dave Berning</h1>
-    <p>I am from Cincinnati, OH. I have two dogs, Hank (5) and Dale (6).</p>
+    <h1>David Berning</h1>
+    <p>I am from Cincinnati, OH. I have two dogs, Dale (6) and Hank (5).</p>
     <p>I like music and food.</p>
     <ul>
       <li>Nirvana</li>
