@@ -7,6 +7,9 @@
       <li>Nirvana</li>
       <li>Green Day</li>
       <li>Foo Fighters</li>
+      <li>Jack White</li>
+      <li>Soundgarden</li>
+      <li>Pearl Jam</li>
     </ul>
   </div>
 </template>
